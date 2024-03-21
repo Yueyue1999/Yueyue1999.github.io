@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Puyang Zhao"
+title                    : "Yueyue"
 title_separator          : "-"
-name                     : &name "Puyang Zhao"
+name                     : &name "Super Yue"
 description              : &description "personal description"
-url                      : https://puyangzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Yueyue1999.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "puyangzhao.github.io"
+repository               : "Yueyue1999.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Puyang Zhao"
+  name             : "Yue"
   avatar           : "profile.png"
   bio              : "Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston"
   location         : "TX, USA"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : puyang.zhao@uth.tmc.edu
+  email            : zhiyi.yu@uth.tmc.edu
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "puyangzhao"
+  github           : "Yueyue1999"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "puyang-zhao-24343b191/"
-  orcid            : "0009-0002-8660-4835"
+  linkedin         : "Yueyue1999.github.io"
+  orcid            : #"0009-0002-8660-4835"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
