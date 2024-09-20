@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Zhiyi Yue"
-  avatar           : "Weixin Image_20240827133404.jpg"
+  avatar           : "profile.png"
   bio              : "Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston"
   location         : "TX, USA"
   employer         :
   #pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=UeUkeiIAAAAJ"
-  email            : puyang.zhao@uth.tmc.edu
+  email            : zhiyi.yue@uth.tmc.edu
   researchgate     : "https://www.researchgate.net/profile/Puyang-Zhao"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "puyangzhao"
+  github           : "Yueyue1999"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "puyang-zhao-24343b191/"
-  orcid            : "https://orcid.org/0009-0002-8660-4835"
+  linkedin         : #"puyang-zhao-24343b191/"
+  orcid            : #"https://orcid.org/0009-0002-8660-4835"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
