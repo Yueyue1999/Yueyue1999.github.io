@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Puyang Zhao"
+title                    : "Yueyue"
 title_separator          : "-"
-name                     : &name "Puyang Zhao"
+name                     : &name "Yueyue"
 description              : &description "personal description"
-url                      : https://puyangzhao.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Yueyue1999.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "puyangzhao.github.io"
+repository               : "Yueyue1999.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Puyang Zhao"
+  name             : "Zhiyi Yue"
   avatar           : "Weixin Image_20240827133404.jpg"
   bio              : "Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston"
   location         : "TX, USA"
