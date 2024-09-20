@@ -1,11 +1,15 @@
 ---
 permalink: /
-title: "Academic Pages for Yueyue's personal websites"
+title: "Yue's Personal Websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+# Welcome to Yue's Personal Websites! 🚀
+
+# 👋 Hello, I'm SuperYue!
 
 *I am Supersuper YueYue Zhiyi!!!
 
