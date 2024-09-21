@@ -15,4 +15,9 @@ redirect_from:
 
 *My research interests span biostatistics, disease detection, epidemiological methods, clinical trials, health equity, survival analysis, data mining, and machine learning. I'm proficient in programming languages and tools such as R, Matlab, Python, C, SPSS, and SQL, and well-versed in methodologies including machine learning, predictive modeling, and statistical analysis.
 
-<img src="images/3.png" alt="Yue's Image" width="250">
+<img src="images/earth.png" alt="Second Image" width="100">
+<img src="images/col.jpg" alt="Third Image" width="100">
+<img src="images/uic.jpg" alt="Fourth Image" width="100">
+<img src="images/3.png" alt="First Image" width="100">
+<img src="images/stat.jpg" alt="Fifth Image" width="100">
+<img src="images/hkbu.jpg" alt="Sixth Image" width="100">
