@@ -18,6 +18,5 @@ redirect_from:
 <img src="images/uth.jpg" alt="Second Image" width="100">
 <img src="images/col.png" alt="Third Image" width="100">
 <img src="images/uic.jpg" alt="Fourth Image" width="100">
-<img src="images/3.png" alt="First Image" width="100">
 <img src="images/stat.jpg" alt="Fifth Image" width="100">
 <img src="images/hkbu.png" alt="Sixth Image" width="100">
