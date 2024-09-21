@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 # Welcome to Yue's Personal Websites! 🚀
+![Yue's Image](images/3.png)
 
 # 👋 Hello, I'm SuperYue!
 
